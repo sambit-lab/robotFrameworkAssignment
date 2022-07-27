@@ -11,38 +11,31 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- Using Robot Framework with Selenium Library validate the search results for Google Search.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Generate report in report.html and log.html. 
+- Also shared snapshot from the console.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Selenium Library
+- Framework : Robot Framework
+- Langugae : Python
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- This project was based on (https://robotframework.org/SeleniumLibrary/SeleniumLibrary.html and https://robotframework.org/robotframework/latest/libraries/BuiltIn.html)
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@sambit-lab] - feel free to contact me!
 
 
 <!-- Optional -->
